@@ -1,7 +1,7 @@
 ## Hi I'm Ayushkant 👋
 
 
-**Graffian/Graffian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian)](https://github.com/Graffian/github-readme-stats)
 
 
 
