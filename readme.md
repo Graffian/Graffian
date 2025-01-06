@@ -8,9 +8,7 @@
 
 
 - 🔭 I’m currently working on creating interactive web apps
-- 🌱 I’m currently learning DSa 
-- 🤔 I’m looking for help with any frontend work
-- 💬 Ask me about anything about vanilla js
+- 🌱 I’m currently learning DSA
 - 📫 reach me on my email: rudrabehera2006@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I find pushing files into GitHub after creating something big and long orgasmic idk
