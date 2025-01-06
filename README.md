@@ -2,7 +2,7 @@
 
 
 [![ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian)](https://github.com/Graffian/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graffian)](https://github.com/Graffian/github-readme-stats)
 
 
 - 🔭 I’m currently working on creating interactive web apps
