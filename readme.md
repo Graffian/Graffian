@@ -11,5 +11,4 @@
 - 🌱 I’m currently learning DSA
 - 📫 reach me on my email: rudrabehera2006@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I find pushing files into GitHub after creating something big and long orgasmic idk
-
+- ⚡ Fun fact: I talk to computers more than humans—and they actually listen!
