@@ -1,7 +1,10 @@
 <h2>## Hi there 👋 , I'm Ayushkant</h2>
 
 <p>I'm a <b>college student</b> here in india</p>
-<p>Skills:  REACT / JS / HTML / CSS / TYPESCRIPT/ POSTGRES / NODEJS / EXPRESSJS / Python / C / C++ / Jupyter Notebook </p>
+
+What i code in:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,reactjs,postgres,mongodb,rust,supabase,mongodb,nodejs,tensorflow,vite,python,fastapi,anaconda)](https://skillicons.dev)
 
 [![ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian)](https://github.com/Graffian/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graffian)](https://github.com/Graffian/github-readme-stats)
