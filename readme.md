@@ -10,7 +10,7 @@ What i code in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graffian)](https://github.com/Graffian/github-readme-stats)
 
 
-- 🔭 I’m currently working on creating interactive web apps
+- 🔭 I’m currently exploring Blockchain 
 - 🌱 I’m currently learning DSA
 - 📫 reach me on my email: rudrabehera2006@gmail.com 
 - 😄 Pronouns: he/him
