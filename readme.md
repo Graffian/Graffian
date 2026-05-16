@@ -8,7 +8,7 @@ What i code in:
 
 [![ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian)](https://github.com/Graffian/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graffian)](https://github.com/Graffian/github-readme-stats)
-![Ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian&commits_year=2025)
+![Ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian&commits_year=2025&custom_title=2025%20Commits&v=1)
 
 
 - 📫 reach me on my email: ayushkantworks@gmail.com 
