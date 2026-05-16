@@ -11,6 +11,6 @@ What i code in:
 ![Ayushkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graffian&commits_year=2025)
 
 
-- 📫 reach me on my email: rudrabehera2006@gmail.com 
+- 📫 reach me on my email: ayushkantworks@gmail.com 
 - 😄 Pronouns: he/him
 
