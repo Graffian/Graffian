@@ -13,4 +13,4 @@ What i code in:
 
 - 📫 reach me on my email: ayushkantworks@gmail.com 
 - 😄 Pronouns: he/him
-
+- If you want to support : 0xe2cd701ba24ef4d5b6dee827c08b53702329e709 (USDC ERC20)
