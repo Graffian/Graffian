@@ -1,4 +1,4 @@
-Hi, I'm ayushkant. I'm product-focused software engineer, and i freelance , currently growing a product. [View resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing).
+Hey, I'm Ayushkant. Product-focused engineer. I freelance, ship things end-to-end, and I'm currently building something new. [View work](https://ayush-2xa.pages.dev/).
 
 
 
