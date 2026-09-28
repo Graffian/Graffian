@@ -2,7 +2,7 @@ Hey, I'm Ayushkant. Product-focused engineer. I freelance, ship things end-to-en
 
 
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graffian&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Graffian&theme=dracula)|
+|![GitHub Profile Summary](![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graffian&theme=holi))|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Graffian&theme=dracula)|
 |-----|------|
 
  
