@@ -2,8 +2,8 @@ Hey, I'm Ayushkant. Product-focused engineer. I freelance, ship things end-to-en
 
 
 
-|![GitHub Profile Summary](![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graffian&theme=holi))|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Graffian&theme=dracula)|
-|-----|------|
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graffian&theme=holi) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Graffian&theme=dracula) |
+|---|---|
 
  
 Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
