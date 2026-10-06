@@ -14,7 +14,7 @@ Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.
    - A breakdown of the networking layer behind mobile hotspots — from local IP assignment and ARP resolution to how CGNAT lets your ISP route your traffic to the internet.
 2. [MITM'ing My Own Hinge Traffic](https://medium.com/@ayushkantworks/how-i-intercepted-my-own-hinge-traffic-a-deep-dive-into-mitm-proxies-30d1b629959c) (security,proxies)
    - Reverse-engineering Hinge's traffic using a MITM proxy — how TLS interception, fake certs, and CA trust actually work under the hood.
-3. [The Titanic Disaster: How a Tragedy Rewired Global Communications](https://medium.com/@ayushkantworks/the-titanic-disaster-how-a-tragedy-rewired-global-communications) (networking / history)
+3. [The Titanic Disaster: How a Tragedy Rewired Global Communications](https://medium.com/@ayushkantworks/the-titanic-disaster-how-a-tragedy-rewired-global-communications-8fa4b0dc22a7) (networking / history)
    - How the Titanic disaster exposed weaknesses in early wireless communication — and how the aftermath, amateur radio experimentation, and the discovery of long-distance shortwave communication helped reshape global communications.
 
 <!--
