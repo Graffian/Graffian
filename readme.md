@@ -1,4 +1,4 @@
-Hey, I'm Ayushkant. Product-focused engineer. I freelance, ship things end-to-end, and I'm currently building something new. [View work](https://ayush-2xa.pages.dev/).
+Hey, I'm Ayushkant. Product-focused engineer. I freelance, ship things end-to-end, and I'm currently building [**Sphynx**](https://github.com/sphynxHQ), open-source, self-hosted antibot [View work](https://ayush-2xa.pages.dev/).
 
 
 
