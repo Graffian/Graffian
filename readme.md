@@ -1,4 +1,4 @@
-Hey, I'm Ayushkant. Product-focused engineer. I freelance and ship things end-to-end ([see my work](https://ayush-2xa.pages.dev/)). Right now I'm building [**Sphynx**](https://github.com/sphynxHQ), open-source, self-hosted antibot.
+Hey, I'm Ayushkant. Product-focused engineer. I freelance and ship things end-to-end . Right now I'm building [**Sphynx**](https://github.com/sphynxHQ), open-source, self-hosted antibot to stop scrapers and ai agents crawling your site.
 
 
 
